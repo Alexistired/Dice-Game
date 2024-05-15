@@ -1,5 +1,3 @@
-// Alexandru Diloreanu
-
 import java.util.Random;
 
 public class DiceGameLogic {
